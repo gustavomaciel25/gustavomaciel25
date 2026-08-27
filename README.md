@@ -4,7 +4,7 @@
 💻 Em transição para a área de Tecnologia  
 🐍 Estudando Python  
 ☕ Estudando Java  
-🌐 Conhecimentos em HTML e CSS  
+🌐 Estudando HTML e CSS  
 
 ## Sobre mim
 
